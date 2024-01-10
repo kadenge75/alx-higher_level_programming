@@ -27,6 +27,7 @@ Prototypes for functions written in this project:
 * **2. Rectangle #2**
   * [2-rectangle.js](./2-rectangle.js): JavaScript script that defines a class
   `Rectangle`. Builds on [1-rectangle.js](./1-rectangle.js) with:
+
     * If provided `w` and `h` are less than or equal to `0`, creates an empty object.
 
 * **3. Rectangle #3**
@@ -83,4 +84,6 @@ Prototypes for functions written in this project:
 * **13. Concat files**
   * [102-concat.js](./102-concat.js): JavaScript script that concatenates two files
   passed as arguments into a file specifed as the third argument.
-  * Usage: `./102-concat.js fileA fileB fileC`.
+
+
+                               * Usage: `./102-concat.js fileA fileB fileC`.
