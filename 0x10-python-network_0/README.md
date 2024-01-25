@@ -2,11 +2,11 @@
 **0x10. Python - Network #0**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
+Name: *Mike Kadenge.*
 
-Email: *wendymunyasi@gmail.com*
+Email: *kadenge75@gmail.com*
 
-Tel: *+254707240068.*
+Tel: *+254702727021.*
 
 ##  Requirements
 
@@ -55,4 +55,4 @@ What happens when you type google.com in your browser (Application level).
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address kadenge75@gmail.com
