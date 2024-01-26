@@ -2,11 +2,11 @@
 **0x11. Python - Network #1**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
+Name: *Mike Kadenge.*
 
-Email: *wendymunyasi@gmail.com*
+Email:*kadenge75@gmail.com*
 
-Tel: *+254707240068.*
+Tel: *+254702727021.*
 
 ##  Requirements
 
@@ -48,4 +48,4 @@ How to manipulate data from an external service.
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address kadenge75@gmail.com.
